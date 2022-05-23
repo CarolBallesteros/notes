@@ -1,3 +1,0 @@
-estadistica descriptiva:
-	probabilidad:
-		algebra lineal con r y python.

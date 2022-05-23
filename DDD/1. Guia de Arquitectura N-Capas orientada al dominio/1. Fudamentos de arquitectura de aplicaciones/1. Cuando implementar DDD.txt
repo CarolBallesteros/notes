@@ -1,3 +1,4 @@
+holas
 Cuando implementar DDD:
 	descarga de responsabilidad:
 		Queremos insistir en este punto y descartar que la presente propuesta de Arquitectura N-Capas Orientada al Dominio no es adecuada para cualquier

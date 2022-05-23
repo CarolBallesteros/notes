@@ -1,2 +1,0 @@
-productividad:
-    Nos permite centrarnos en el desarrollo de la lógica de negocio, ahorrándonos una gran cantidad de código.

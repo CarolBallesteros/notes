@@ -1,2 +1,0 @@
-kubectl rollout history deployment.app/deployment-spring-boot:
-	obtener todos los deployments desplegados.

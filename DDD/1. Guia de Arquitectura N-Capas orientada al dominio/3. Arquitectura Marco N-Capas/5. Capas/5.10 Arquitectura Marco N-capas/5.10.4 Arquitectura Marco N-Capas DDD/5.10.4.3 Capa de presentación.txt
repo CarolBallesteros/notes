@@ -1,3 +1,0 @@
-Capa de presentación:	
-	Subcapa de componentes Visuales (Vistas)
-	SubCapas de procesos de interfaz de usuario (controladores y similares)

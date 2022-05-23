@@ -1,3 +1,0 @@
-2. Componentes Reutilizables:
-    Estos componentes pueden ser implementados como clases base o clases utilidad (Dependiendo del uso) y ser código
-    reutilizado en diferentes Proyectos/Aplicaciones

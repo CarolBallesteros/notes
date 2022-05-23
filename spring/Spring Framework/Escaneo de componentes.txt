@@ -1,3 +1,0 @@
-Los candidatos serán clases específicas - incluso según un criterio de búsqueda y que tengan la metainformación necesaria.
-
-declaramos un paquete base sobre el que hacer el escaneo.

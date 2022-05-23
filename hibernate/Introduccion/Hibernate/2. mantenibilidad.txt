@@ -1,3 +1,0 @@
-Mantenibilidad:
-    El Orm de hibernate, al reducir el numero de lineas de código que tenemos que escribir, nor permite realizar
-    refactorizaciones de forma más fácil.

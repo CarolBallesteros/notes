@@ -1,2 +1,0 @@
-helm get notes name_app:
-	información de la aplicación brindada en el despliegue.

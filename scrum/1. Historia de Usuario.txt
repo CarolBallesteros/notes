@@ -1,2 +1,0 @@
-Historia de usuario:
-	Este es un concepto prestado de la metodogia XP.

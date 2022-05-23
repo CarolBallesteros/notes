@@ -1,2 +1,0 @@
-@Repository:
-    clases de acceso a datos DAO

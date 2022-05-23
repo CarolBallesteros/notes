@@ -1,3 +1,0 @@
-Evaluación de conocimientos:
-	el aislamiento de las regiones logran la mayor tolerancia a errores y estabilidad posibles.
-	true. 

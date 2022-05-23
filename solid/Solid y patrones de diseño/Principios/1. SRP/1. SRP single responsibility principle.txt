@@ -1,3 +1,0 @@
-SRP:
-    cada modulo de software debe tener una sola razon para cambiar.
-    no debe ser navaja suiza.

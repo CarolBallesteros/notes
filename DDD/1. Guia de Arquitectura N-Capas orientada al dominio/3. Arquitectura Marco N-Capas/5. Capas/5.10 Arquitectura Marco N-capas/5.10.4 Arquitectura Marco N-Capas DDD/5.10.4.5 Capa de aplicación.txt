@@ -1,4 +1,0 @@
-Capa de aplicación:
-	Tareas.
-	Serivicios de aplicación.
-	Coordinadores de casos de uso.

@@ -1,2 +1,0 @@
-Pipeline:
-	son secuencias de trabajos etiquetados, ordenados y con estado.

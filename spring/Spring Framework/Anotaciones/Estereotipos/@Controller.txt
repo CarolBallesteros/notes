@@ -1,2 +1,0 @@
-@Controller:
-    clases que sirven para gestionar las peticiones recibidas.

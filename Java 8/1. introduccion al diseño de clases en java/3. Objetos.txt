@@ -1,3 +1,0 @@
-Estructura y Comportamiento:
-    En general, todos los objetos tienen una estructura - como estan conformados
-    y un comportamiento - realizan una seria de operacions

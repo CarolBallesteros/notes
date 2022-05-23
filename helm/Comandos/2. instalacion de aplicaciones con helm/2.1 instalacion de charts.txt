@@ -1,7 +1,0 @@
-instalación de charts:
-	helm install <repositorio/charts> 
-		--name
-		--namespace
-		--tiller-namespace
-		--values
-		--set

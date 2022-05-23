@@ -1,2 +1,0 @@
-helm ls:
-	lista todas las releases (instalaciones) que hay desplegadas en tu clúster.

@@ -1,7 +1,0 @@
-Aplicación Distribuida:
-    Idealmente un componente por nodo.
-    Escalado Horizontal.
-    Arquitectura más compleja.
-    Consideraciones de seguridad.
-    Menos interferencias entre componentes.
-    simplicidad en las actualizaciones.

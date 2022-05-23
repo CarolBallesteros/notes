@@ -1,5 +1,0 @@
-Normas:
-    por regla general, esta regla deberá aplicarse en la mayoría de las aplicaciones con cierto volumen y áreas funcionales
-    diferentes.
-
-    

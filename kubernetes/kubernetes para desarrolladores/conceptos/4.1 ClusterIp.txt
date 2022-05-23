@@ -1,2 +1,0 @@
-ClusterIp:
-	servicio tiene ip privada dentro del cluster y es accesible dentro del cluster.

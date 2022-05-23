@@ -1,2 +1,0 @@
-crear un proyecto:
-    ng new nombre_projecto

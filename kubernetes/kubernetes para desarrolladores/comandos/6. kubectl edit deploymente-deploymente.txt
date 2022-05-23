@@ -1,2 +1,0 @@
-kubectl ecit deployment.apps/deployment-spring-boot:
-    edita el archivo deployment en ejecución.

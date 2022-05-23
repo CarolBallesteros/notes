@@ -1,2 +1,0 @@
-git branch:
-    ver todas las ramas creadas. 

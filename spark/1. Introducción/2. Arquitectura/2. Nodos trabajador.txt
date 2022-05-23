@@ -1,4 +1,0 @@
-Nodos Trabajador:
-	Donde se ejecutan las tareas.
-	Objeto executor, recibe código java con las tareas.
-	

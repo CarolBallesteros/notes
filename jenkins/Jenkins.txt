@@ -1,4 +1,0 @@
-Integración continua
-entregra 
-despliegue
-ciclo

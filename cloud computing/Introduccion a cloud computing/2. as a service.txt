@@ -1,9 +1,0 @@
-modelo de negocio no basado en la venta de licencias o hardware.
-oferta de servicios con caracteristicas de la nube.
-tradicionalmente se define tres capas:
-    SaaS:	
-	software como servicio.
-    PaaS:
-	plataforma como servicio.
-    IaaS:
-	infraestructura como servicio.

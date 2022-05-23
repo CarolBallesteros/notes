@@ -1,5 +1,0 @@
-//download all dependencies
-yarn install
-
-//run jhipster project
-yarn start

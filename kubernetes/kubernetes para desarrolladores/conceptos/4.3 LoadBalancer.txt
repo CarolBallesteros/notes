@@ -1,2 +1,0 @@
-LoadBalancer:
-	balanceadore para los pods.

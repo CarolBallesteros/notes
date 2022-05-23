@@ -1,7 +1,0 @@
-los candidatos estarán anotados con algún esterotipo. el mas básico es @Component
-
-* debe estar uno de los componente definidos para el escaneo.
-
-@Component:
-    estereotipo básico.
-    los demás son derivados de él.

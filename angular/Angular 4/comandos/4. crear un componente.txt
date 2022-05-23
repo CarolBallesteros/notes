@@ -1,2 +1,0 @@
-crear un componente:
-    ng g c nombre_componente

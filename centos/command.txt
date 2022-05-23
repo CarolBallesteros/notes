@@ -1,2 +1,0 @@
-// list service and their open ports
-netstat -tulpn

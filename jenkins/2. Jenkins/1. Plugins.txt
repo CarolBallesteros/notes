@@ -1,6 +1,0 @@
-Plugins:
-	Manage Jenkins:
-		Manage Plugins:
-			Available:
-				filter -> docker:
-					install without restart

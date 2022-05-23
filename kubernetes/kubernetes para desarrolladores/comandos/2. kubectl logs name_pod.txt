@@ -1,2 +1,0 @@
-kubectl logs name_pod:
-	ver los logs de un pod en especifico.

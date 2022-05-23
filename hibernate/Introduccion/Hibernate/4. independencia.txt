@@ -1,2 +1,0 @@
-Independencia:
-    Hibernate nos permite aislarnos del RDBMS concreto que estamos usando.

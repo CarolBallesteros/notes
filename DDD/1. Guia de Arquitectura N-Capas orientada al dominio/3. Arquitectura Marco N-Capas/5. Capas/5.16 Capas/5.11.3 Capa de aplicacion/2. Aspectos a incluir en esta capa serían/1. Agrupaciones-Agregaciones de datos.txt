@@ -1,3 +1,0 @@
-Agrupacion/agregaciones de datos:
-	de diferentes entidades para ser enviadas de una forma más eficiente (minimizar las llamadas remotas), por la capa superior de servicios
-	web. a esto se le llama DTO (Data Transfer Object).
